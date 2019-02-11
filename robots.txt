@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wozeelar.callcentertrainingtips.com/sitemap.xml
